@@ -1,2 +1,2 @@
-config SHIELD_SICKWL
-    def_bool $(shields_list_contains, sickWL)
+config SHIELD_M60
+    def_bool $(shields_list_contains, m60)
